@@ -10,4 +10,5 @@ publishDate: '2025-09-03T13:18:45.760616Z'
 publication_types:
 - paper-conference
 publication: '*AAAI*'
+doi: 'https://doi.org/10.1609/aaai.v38i16.29678'
 ---
