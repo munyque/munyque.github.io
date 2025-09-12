@@ -70,7 +70,7 @@ sections:
     design:
       view: citation
 
-  - block: text
+  - block: collection
     content:
       title: Recent News
       text: |
