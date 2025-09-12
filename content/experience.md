@@ -18,10 +18,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  #- block: resume-skills
-   # content:
-   #   title: Skills & Hobbies
-   #   username: admin
+#  - block: resume-skills
+#    content:
+#      title: Skills & Hobbies
+#      username: admin
   - block: resume-awards
     content:
       title: Awards
@@ -36,7 +36,7 @@ sections:
         gradient_start: "#4f46e5"
         gradient_end: "#7c3aed"
         text_color_light: true
-      # spacing:
-      #   padding: ["6", "6", "6", "6"]
-      # columns: "1" 
+#       spacing:
+#         padding: ["6", "6", "6", "6"]
+#       columns: "1" 
 ---
