@@ -9,6 +9,10 @@ cms_exclude: true
 #   4 = Citation
 view: citation
 
+filters:
+  - publication_type
+  - year
+
 # Optional header image (relative to `static/media/` folder).
 banner:
   caption: ''
