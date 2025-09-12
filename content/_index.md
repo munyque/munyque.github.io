@@ -70,7 +70,7 @@ sections:
     design:
       view: citation
 
-  - block: news
+  - block: page-news
     content:
       title: Recent News
       text: |
@@ -78,9 +78,6 @@ sections:
         - 🇦🇺 Co-chair of the Doctoral Consortium @ KR 2026
         - 🇦🇺 Paper accepted at KR 2025
         - 🇺🇸 My AAMAS 25 papers are now available:
-          - ["Rational Capability in Concurrent Games"](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1309.pdf)
-          - ["Changing the Rules of the Game: Reasoning about Dynamic Phenomena in Multi-Agent Systems"](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p829.pdf)
-          - ["Robust Strategies for Stochastic Multi-Agent Systems"](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2437.pdf) (extended abstract)
         - 📢 Our AIJ paper ["Formal Verification and Synthesis of Mechanisms for Social Choice"](https://www.sciencedirect.com/science/article/pii/S000437022400208X) is available in open access
     design:
       style: default
