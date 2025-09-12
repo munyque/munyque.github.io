@@ -28,7 +28,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: melt.svg
+          filename: Moon.svg
           filters:
             brightness: 1.0
           size: cover
@@ -70,21 +70,21 @@ sections:
     design:
       view: citation
 
-#- block: text
-  #id: news
-  #content:
-    #title: Recent News
-    # text: |
-    #  - 📖 Guest editor for a special issue of [Information and Computation](https://www.sciencedirect.com/special-issue/321808/logical-aspects-of-multi-agent-systems-and-strategic-reasoning-lamassr-2024)
-    #  - 🇦🇺 Co-chair of the Doctoral Consortium @ KR 2026
-    #  - 🇦🇺 Paper accepted at KR 2025
-    #  - 🇺🇸 My AAMAS 25 papers are now available:
-    #    - ["Rational Capability in Concurrent Games"](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1309.pdf)
-    #    - ["Changing the Rules of the Game: Reasoning about Dynamic Phenomena in Multi-Agent Systems"](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p829.pdf)
-    #    - ["Robust Strategies for Stochastic Multi-Agent Systems"](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2437.pdf) (extended abstract)
-    #  - 📢 Our AIJ paper ["Formal Verification and Synthesis of Mechanisms for Social Choice"](https://www.sciencedirect.com/science/article/pii/S000437022400208X) is available in open access 
-  #design:
-  #  style: default
+  - block: text
+    id: news
+    content:
+      title: Recent News
+      text: |
+        - 📖 Guest editor for a special issue of [Information and Computation](https://www.sciencedirect.com/special-issue/321808/logical-aspects-of-multi-agent-systems-and-strategic-reasoning-lamassr-2024)
+        - 🇦🇺 Co-chair of the Doctoral Consortium @ KR 2026
+        - 🇦🇺 Paper accepted at KR 2025
+        - 🇺🇸 My AAMAS 25 papers are now available:
+          - ["Rational Capability in Concurrent Games"](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1309.pdf)
+          - ["Changing the Rules of the Game: Reasoning about Dynamic Phenomena in Multi-Agent Systems"](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p829.pdf)
+          - ["Robust Strategies for Stochastic Multi-Agent Systems"](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p2437.pdf) (extended abstract)
+        - 📢 Our AIJ paper ["Formal Verification and Synthesis of Mechanisms for Social Choice"](https://www.sciencedirect.com/science/article/pii/S000437022400208X) is available in open access
+    design:
+      style: default
 
 # OLD news version
 # - block: collection
