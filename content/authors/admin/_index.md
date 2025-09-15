@@ -121,5 +121,5 @@ awards:
 
 ## About Me
 
-I am a postdoctoral researcher at CNRS-LIPN, affiliated with Université Sorbonne Paris Nord. Previously, I was a Marie-Curie fellow at the University of Naples Federico II, and before that, I completed my Ph.D. at the University Toulouse Capitole - IRIT. 
+I am a researcher at CNRS-LIPN, affiliated with Université Sorbonne Paris Nord. Previously, I was a Marie-Curie fellow at the University of Naples Federico II, and before that, I completed my Ph.D. at the University Toulouse Capitole - IRIT. 
 
