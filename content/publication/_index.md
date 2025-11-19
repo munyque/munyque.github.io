@@ -1,19 +1,6 @@
 ---
-title: Publications
-# cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-#view: citation
-
-#filters:
-#  - publication_type
-#  - year
-
-# Publications 
+title: 'Publications' 
+type: landing
 
 sections:
   - block: markdown
@@ -24,3 +11,4 @@ sections:
  #         link: "publication/bib/cite.bib"
     design:
       columns: 1
+  ---
