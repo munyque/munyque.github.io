@@ -11,4 +11,4 @@ sections:
  #         link: "publication/bib/cite.bib"
     design:
       columns: 1
-  ---
+---
