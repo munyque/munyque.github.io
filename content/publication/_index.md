@@ -1,5 +1,5 @@
 ---
-title: Publications 1
+title: Publications
 # cms_exclude: true
 
 # View.
@@ -16,7 +16,7 @@ title: Publications 1
 # Publications 
 
 sections:
-  - block: list
+  - block: markdown
     content:
       title: "2025"
       items:
@@ -24,18 +24,3 @@ sections:
  #         link: "publication/bib/cite.bib"
     design:
       columns: 1
-
-  - block: list
-    content:
-      title: "2024"
-      items:
-        - text: "M"
- #         link: publication/bib/cite.bib
-    design:
-      columns: 1
-
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
----
