@@ -3,7 +3,7 @@ title: 'Publications'
 type: landing
 
 sections:
-  - block: markdown
+  - block: list
     content:
       title: "2025"
       items:
