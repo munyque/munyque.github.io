@@ -15,18 +15,12 @@ cms_exclude: true
 
 # Publications
 sections:
-- block: collection
-  id: papers-2025
+- block: list
   content:
-    title: "Publications"
-    filters:
-      folders:
-        - publication
-      tags:
-        - 2025
-  design:
-    view: article-grid
-    columns: 2
+    title: Publications
+    items:
+      - text: "M. Mittelmann, B. Maubert, A. Murano, L. Perrussel. "Formal verification and synthesis of mechanisms for social choice."  Artif. Intell. 339: 104272 (2025)"
+        link: publication/bib/cite.bib
 
 # Optional header image (relative to `static/media/` folder).
 banner:
