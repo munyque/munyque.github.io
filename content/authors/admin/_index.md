@@ -59,7 +59,8 @@ education:
     date_start: 2019-03-15
     date_end: 2022-09-01
     summary: |
-      Thesis on [_Logics for Representation and Design of Auctions_](https://theses.hal.science/tel-04086849). Supervised by [Prof Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/). 
+      Thesis on [_Logics for Representation and Design of Auctions_](https://theses.hal.science/tel-04086849). 
+      Supervised by [Prof Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/). 
   - area: MSc in Computer Science
     institution: Federal University of Santa Catarina
     date_start: 2017-03-01
