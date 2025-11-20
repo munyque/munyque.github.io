@@ -84,21 +84,6 @@ sections:
     design:
       style: default
 
-  - block: features
-    content:
-      title: Awards
-      items:
-        - name: KR Early Career
-          description: "Description"
-          icon: "bolt"
-        - name: AFIA Thesis Award
-          description: "Description"
-          icon: "heart" 
-    design:
-      columns: "2"
-#      background:
-#        color: "gray-50"
-
 # OLD news version
 # - block: collection
 #    id: news
