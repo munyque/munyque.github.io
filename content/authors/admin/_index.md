@@ -76,7 +76,7 @@ work:
     company_url: 'https://lipn.univ-paris13.fr/'
     company_logo: ''
     date_start: 2025-0-01
-    date_end:  
+    date_end: ''
   - position: Postdoctoral Fellow
     company_name: CNRS, LIPN, Université Sorbonne Paris Nord
     company_url: 'https://lipn.univ-paris13.fr/'

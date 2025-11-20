@@ -25,40 +25,7 @@ main:
   #- name: Teaching
   #  url: teaching/
   #  weight: 40
-
-
-
-    💻 Edit locally
-    📝 Choose an editor
-    🎨 Customize
-    🧱 Build with blocks
-
-    💻 Edit locally
-    📝 Choose an editor
-    🎨 Customize
-    🧱 Build with blocks
-
-    📊 Analytics
-    💬 Commenting
-    𝌞 Content types
-    👥 Contribute
-    ☁️ Hosting
-    🔗 Get a domain name
-    ➕ Extend Hugo Blox
-    ⌗ Front Matter
-    🌎 Language
-    ✍️ Markdown formatting
-    🏷 Page Features
-    🤳 Social media sharing
-    ⚡️ Optimize performance
-    🕵️ Privacy
-    🔎 Site Search
-    🔒 Security
-    🔎 SEO
-    🗂️ Site structure
-    😣 Troubleshooting
-    🆙 Update
-
+  
 header:
   navbar:
     # Display the navigation bar?
