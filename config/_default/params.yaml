@@ -32,7 +32,8 @@ header:
     enable: true
     blox: "navbar"
     fixed_to_top: true
-    show_search: true
+    align: "right"
+    show_search: false
     show_theme_chooser: true
     logo:
       text: "Munyque Mittelmann"
@@ -40,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '' #'© {year} Me. This work is licensed under {license}'
+    notice: '' #'© {year} Me.
     license:
       enable: false #Changed
       allow_derivatives: false
