@@ -39,8 +39,6 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a researcher (*chargée de recherche*) at [CNRS](https://www.cnrs.fr/)-[LIPN](https://lipn.univ-paris13.fr/), affiliated with [Université Sorbonne Paris Nord](https://www.univ-spn.fr/). 
-        
         My research is focused on logics and formal methods for strategic reasoning, modelization, and verification of Multi-Agent Systems.
 
         ⚠️ Website under construction, [old website](https://www.munyque.com/) ⚠️ 

@@ -59,7 +59,6 @@ education:
     date_start: 2019-03-15
     date_end: 2022-09-01
     summary: |
-      Thesis on [_Logics for Representation and Design of Auctions_](https://theses.hal.science/tel-04086849). 
       Supervised by [Prof Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/). 
   - area: MSc in Computer Science
     institution: Federal University of Santa Catarina
@@ -72,6 +71,12 @@ education:
     
  
 work:
+  - position: Chargée de Recherche (researcher, tenured)
+    company_name: CNRS, LIPN, Université Sorbonne Paris Nord
+    company_url: 'https://lipn.univ-paris13.fr/'
+    company_logo: ''
+    date_start: 2025-0-01
+    date_end:  
   - position: Postdoctoral Fellow
     company_name: CNRS, LIPN, Université Sorbonne Paris Nord
     company_url: 'https://lipn.univ-paris13.fr/'
@@ -122,5 +127,4 @@ awards:
 
 ## About Me
 
-I am a researcher at CNRS-LIPN, affiliated with Université Sorbonne Paris Nord. Previously, I was a Marie-Curie fellow at the University of Naples Federico II, and before that, I completed my Ph.D. at the University Toulouse Capitole - IRIT. 
-
+I am a researcher (*chargée de recherche*) at [CNRS](https://www.cnrs.fr/)-[LIPN](https://lipn.univ-paris13.fr/), affiliated with [Université Sorbonne Paris Nord](https://www.univ-spn.fr/). 
