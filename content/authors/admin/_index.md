@@ -59,6 +59,7 @@ education:
     date_start: 2019-03-15
     date_end: 2022-09-01
     summary: |
+      Thesis on [_Logics for Representation and Design of Auctions_](https://theses.hal.science/tel-04086849). 
       Supervised by [Prof Laurent Perrussel](https://www.irit.fr/~Laurent.Perrussel/). 
   - area: MSc in Computer Science
     institution: Federal University of Santa Catarina
@@ -71,7 +72,7 @@ education:
     
  
 work:
-  - position: Chargée de Recherche (researcher, tenured)
+  - position: Chargée de Recherche 
     company_name: CNRS, LIPN, Université Sorbonne Paris Nord
     company_url: 'https://lipn.univ-paris13.fr/'
     company_logo: ''
