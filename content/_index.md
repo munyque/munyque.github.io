@@ -75,7 +75,8 @@ sections:
       title: Recent News
       text: |
         - 📖 Guest editor for a special issue of [Information and Computation](https://www.sciencedirect.com/special-issue/321808/logical-aspects-of-multi-agent-systems-and-strategic-reasoning-lamassr-2024)
-        - 🇦🇺 Co-chair of the Doctoral Consortium @ KR 2026
+        - 🇸🇬 Paper accepted at AAAI 2026
+        - 🇵🇹 Co-chair of the Doctoral Consortium @ KR 2026
         - 🇦🇺 Paper accepted at KR 2025
         - 🇺🇸 My AAMAS 25 papers are now available:
           - ["Rational Capability in Concurrent Games"](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1309.pdf)
