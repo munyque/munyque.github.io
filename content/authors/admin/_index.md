@@ -27,7 +27,7 @@ role: Reseacher
 
 # Organizations/Affiliations to display in Biography block 
 organizations:
-  - name: CNRS, LIPN, Université Sorbonne Paris Nord
+  - name: CNRS, LIPN
     url: https://lipn.univ-paris13.fr/
 
 # Social network links
