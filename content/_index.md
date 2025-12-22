@@ -73,8 +73,8 @@ sections:
         - 📖 Guest editor for a special issue of [Information and Computation](https://www.sciencedirect.com/special-issue/321808/logical-aspects-of-multi-agent-systems-and-strategic-reasoning-lamassr-2024)
         - 🇨🇾 Paper accepted at AAMAS 2026
         - 🇸🇬 Paper accepted at AAAI 2026
+        - 🇮🇹 Paper accepted at FoSSaCS 2026
         - 🇵🇹 Co-chair of the Doctoral Consortium @ KR 2026
-        - 🇦🇺 Paper accepted at KR 2025
         - 📢 Our AIJ paper ["Formal Verification and Synthesis of Mechanisms for Social Choice"](https://www.sciencedirect.com/science/article/pii/S000437022400208X) is available in open access
     design:
       style: default
