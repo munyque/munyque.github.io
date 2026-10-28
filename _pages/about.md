@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Bureau Y127, Institut Galilée </p>
+    <p>Bureau Y127 </p>
     <p>LIPN - UMR CNRS 7030 </p>
     <p>Université Sorbonne Paris Nord</p>
     <p>99 av. Jean-Baptiste Clément</p>
