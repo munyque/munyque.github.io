@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CNRS, LIPN. lastname@lipn.univ-paris.13.Fr
+subtitle: CNRS, LIPN. Contact: lastname@lipn.univ-paris.13.fr
 
 profile:
   align: right
