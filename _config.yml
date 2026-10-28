@@ -232,6 +232,7 @@ exclude:
   - _pages/CV.md
   - _posts/
   - _pages/people.md
+  - _pages/profiles.md
   - _pages/teaching.md
   - _pages/books.md
   - _pages/repositories.md
