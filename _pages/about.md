@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>CNRS, LIPN, Université Sorbonne Paris Nord</a>. lastname@lipn.univ-paris.13.Fr
 
 profile:
   align: right
