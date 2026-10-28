@@ -7,7 +7,7 @@ subtitle: "CNRS, LIPN. Contact: lastname@lipn.univ-paris.13.fr"
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Bureau Y127 </p>
     <p>LIPN - UMR CNRS 7030 </p>
