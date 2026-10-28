@@ -1,11 +1,10 @@
-:root {
-  --global-theme-color: #E65100;
-  --global-hover-color: #FF9800;
-  --global-footer-link-color: #E65100;
+:root,
+html[data-theme="light"] {
+  --global-theme-color: #E65100 !important;
+  --global-hover-color: #E65100 !important;
 }
 
 html[data-theme="dark"] {
-  --global-theme-color: #2ce0a1;
-  --global-hover-color: #25c98f;
-  --global-footer-link-color: #2ce0a1;
+  --global-theme-color: #2ce0a1 !important;
+  --global-hover-color: #2ce0a1 !important;
 }
