@@ -1,0 +1,11 @@
+:root {
+  --global-theme-color: #E65100;
+  --global-hover-color: #FF9800;
+  --global-footer-link-color: #E65100;
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #2ce0a1;
+  --global-hover-color: #25c98f;
+  --global-footer-link-color: #2ce0a1;
+}
