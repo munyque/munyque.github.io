@@ -29,7 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher (*chargée de recherche*) at [CNRS](https://www.cnrs.fr/), working in the SAFER team at [LIPN](https://lipn.univ-paris13.fr/), which is a part of [Université Sorbonne Paris Nord](https://www.univ-spn.fr/). My research focuses on **logics for multi-agent systems**, particularly the specification and formal verification of concurrent systems with strategic agents. My work lies at the intersection of formal methods, knowledge representation, and algorithmic game theory.
+I am a researcher (*chargée de recherche*) at [CNRS](https://www.cnrs.fr/), working in the SAFER team at [LIPN](https://lipn.univ-paris13.fr/), which is part of [Université Sorbonne Paris Nord](https://www.univ-spn.fr/). My research focuses on **logics for multi-agent systems**, particularly the specification and formal verification of concurrent systems with strategic agents. My work lies at the intersection of formal methods, knowledge representation, and algorithmic game theory.
 
 Previously, I was a Marie Skłodowska-Curie Fellow at the University of Naples Federico II. I completed my Ph.D. at the University Toulouse Capitole - [IRIT](https://www.irit.fr/) on *Logics for Representation and Design of Auctions*, under the supervision of Laurent Perrussel. 
 
