@@ -227,6 +227,13 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _pages/blog.md
+  - _posts/
+  - _pages/people.md
+  - _pages/teaching.md
+  - _pages/books.md
+  - _pages/repositories.md
+  - _pages/projects.md 
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
