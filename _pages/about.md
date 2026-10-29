@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "CNRS, LIPN. lastname@lipn.univ-paris.13.fr"
+subtitle: "CNRS, LIPN. lastname@lipn.univ-paris13.fr"
 
 profile:
   align: right
